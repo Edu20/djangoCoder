@@ -1,1 +1,13 @@
-.py
+# Python
+*.pyc
+build/
+dist/
+virtual_env/
+.cache/
+.pytest_cache/
+pygsheets.egg-info/
+madia/*
+
+# other
+.DS_Store
+.ceverage
